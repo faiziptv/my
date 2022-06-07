@@ -1996,24 +1996,19 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
 
 #EXTINF:-1 tvg-id="unifiSports4" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
 
 #EXTINF:-1 tvg-id="unifiSports5" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
-http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
-
-
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
