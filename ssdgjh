@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/faiziptv/my" refresh="3600"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://zeehanzgadget.com/epg" refresh="3600"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
